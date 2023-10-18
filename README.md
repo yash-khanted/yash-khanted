@@ -17,5 +17,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
 </div>
 
-<h1>LeetCode Stats</h1>
-[![yashsanghvi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yashsanghvi2)](https://github.com/KnlnKS/leetcode-stats)
+
