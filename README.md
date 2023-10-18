@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 </div>
 
 <h1>LeetCode Stats</h1>
-<div>
-  <iframe src="https://leetcode.com/yashsanghvi2"></iframe>
-</div>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yashsanghvi2)](https://github.com/KnlnKS/leetcode-stats)
