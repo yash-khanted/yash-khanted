@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <h1>LeetCode Stats</h1>
 <div>
-  <iframe src="https://leetcode.com/yashsanghvi2/"></iframe>
+  <iframe src="https://leetcode.com/yashsanghvi2"></iframe>
 </div>
