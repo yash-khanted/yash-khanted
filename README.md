@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 </div>
 
 <h1>LeetCode Stats</h1>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yashsanghvi2)](https://github.com/KnlnKS/leetcode-stats)
+[![yashsanghvi's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yashsanghvi2)](https://github.com/KnlnKS/leetcode-stats)
