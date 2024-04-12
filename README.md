@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Yash Jain sanghvi
 ## About Me
 I am currently learning about web backend development using spring boot.
 ## My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-khanted)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-khanted&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
