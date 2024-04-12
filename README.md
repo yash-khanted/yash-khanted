@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center" >
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
-</div>
+# Yash Jain sanghvi
+## About Me
+I am currently learning about web backend development using spring boot.
+## My stats
+
+[](https://github-readme-stats.vercel.app/api?username=yash-khanted)](https://github.com/anuraghazra/github-readme-stats)
 
