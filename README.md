@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I am currently learning about web backend development using spring boot.
 ## My stats
 
-[(https://github-readme-stats.vercel.app/api?username=yash-khanted)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=yash-khanted)](https://github.com/anuraghazra/github-readme-stats)
 
